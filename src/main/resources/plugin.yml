@@ -1,0 +1,20 @@
+name: FarmingLite
+version: ${project.version}
+main: com.github.franciscovenned.farminglite.FarmingLite
+api-version: 1.16
+authors: [ FranciscoVenned ]
+description: Farming Crops
+commands:
+  god:
+    description: OP
+  tiempo:
+    description: op
+permissions:
+  farminglite.time:
+    default: op
+  farminglite.god:
+    default: op
+  farminglite.join:
+    default: op
+  farminglite.time:
+    default: op
